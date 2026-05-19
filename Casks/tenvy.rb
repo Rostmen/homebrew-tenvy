@@ -1,6 +1,6 @@
 cask "tenvy" do
-  version "1.0.49"
-  sha256 "0996351febd297f1dcc01e1ae86f503aa75ea0f829c6411e732f0b176dbe6acb"
+  version "1.0.50"
+  sha256 "aaa863bcb679ecae033d66dc1d6af5a351339587486a61002d6c171db1a06840"
 
   url "https://github.com/Rostmen/ClaudeGUI/releases/download/v#{version}/Tenvy-#{version}.dmg"
   name "Tenvy"
